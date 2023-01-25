@@ -1,0 +1,46 @@
+*{padding: 0px;margin: 0px;}
+body{
+    text-align: center;}
+.logo{width: 100px;}
+header{
+    height: auto;
+    text-transform:capitalize;
+}
+h1{background-color:lightsalmon;}
+    p{
+      text-transform: capitalize;
+      padding: 1%;
+      background-color:lightsalmon;
+      font-weight: bold;
+    }
+
+/***************************************/
+h4{
+    font-style: italic;
+    background-color:lightgreen;
+    text-decoration: underline;
+    text-transform: uppercase;
+    
+}
+
+.articulo{
+    border: 2px solid crimson;
+    padding: 2%;
+    margin: 4%;
+    margin-left: 20%;
+    margin-right: 20%;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    text-transform: capitalize;
+    }
+img{
+    border-radius: 10px;
+    border: 1px black solid;
+    margin: 2%;
+    width:50vw;
+}
+footer{
+    color: aliceblue;
+    background-color: black;
+    padding: 2%;
+}
