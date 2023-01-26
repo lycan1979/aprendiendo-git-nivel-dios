@@ -27,8 +27,8 @@ h4{
     border: 2px solid crimson;
     padding: 2%;
     margin: 4%;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     flex-wrap: wrap;
     border-radius: 10px;
     text-transform: capitalize;
@@ -37,7 +37,7 @@ img{
     border-radius: 10px;
     border: 1px black solid;
     margin: 2%;
-    width:50vw;
+    width:90%;
 }
 footer{
     color: aliceblue;
